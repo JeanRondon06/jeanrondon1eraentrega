@@ -96,3 +96,4 @@ function multiplicar(numberOne, numberTwo) {
 function dividir(numberOne, numberTwo) {
     return parseInt(numberOne) / parseInt(numberTwo);
 }
+
