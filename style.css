@@ -1,0 +1,39 @@
+.cabezera{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    position: sticky;
+}
+
+.productos h3{
+    width: 250px;
+    height: 300px;
+    display: flex;
+    justify-content: row;
+    text-align:center;
+    background-color: rgb(235, 235, 235);
+    color: rgba(0, 0, 0, 0.815);
+    border-radius: 1px black solid;
+}
+
+.cabezera titulo a{
+    text-decoration: none;
+}
+
+.navegador ul{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.navegador ul a{
+    display: flex;
+    justify-content: space-between;
+}
+.navegador ul li a {
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    margin: 7px;
+}
